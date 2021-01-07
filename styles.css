@@ -2,14 +2,23 @@
   border: black;
   border-width: 5px;
   border-style: solid;
-  width: 250px;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+.column1 {
+  border: black;
+  border-width: 5px;
+  width: 300px;
   float: left;
   margin: 80px;
 }
 .column2 {
+  text-align: center;
+  align-items: center;
   border: black;
   border-width: 5px;
-  width: 400px;
+  width: 300px;
   float: left;
   margin: 80px;
 }
